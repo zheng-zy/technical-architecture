@@ -12,4 +12,6 @@
 
 ### 前端
 * Webpack实战：入门、进阶与调优
-> 购买地址：http://product.china-pub.com/8059655#ml，书本源码地址：https://github.com/yuhaoju/webpack-config-handbook
+> 购买地址：http://product.china-pub.com/8059655#ml
+书本源码地址：https://github.com/yuhaoju/webpack-config-handbook
+

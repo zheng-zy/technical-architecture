@@ -10,6 +10,7 @@
 * https://github.com/Nepxion/Discovery?spm=a2c4e.10696291.0.0.2ab019a4wMVARj
 
 1. springcloud gateway/zuul nacos 配置动态路由
+
 参考：
 
 * https://mp.weixin.qq.com/s/ozfjAQowx5nkbfCkn6nolw

@@ -9,6 +9,11 @@
 > 参考项目
 * https://github.com/Nepxion/Discovery?spm=a2c4e.10696291.0.0.2ab019a4wMVARj
 
+1. springcloud gateway/zuul nacos 配置动态路由
+参考：
+* https://mp.weixin.qq.com/s/ozfjAQowx5nkbfCkn6nolw
+* https://mp.weixin.qq.com/s?__biz=MjM5OTI2NDMwMg==&mid=2247483694&idx=1&sn=4bd9c5865f18f25dd3f38e1f0a9e8701&scene=21#wechat_redirect
+
 
 ### 前端
 * Webpack实战：入门、进阶与调优

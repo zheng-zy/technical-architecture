@@ -23,5 +23,7 @@
 书本源码地址：https://github.com/yuhaoju/webpack-config-handbook
 
 java执行ssh脚本
-* PelicanDT https://help.aliyun.com/document_detail/102585.html?spm=a2c4g.11186623.2.13.77342195PxlIDx#InstallPelicanDTSDK
-* trilead-ssh2 https://github.com/jenkinsci/trilead-ssh2
+* [PelicanDT](https://github.com/alibaba/PelicanDT)
+* [PelicanDT阿里云](https://help.aliyun.com/document_detail/102585.html?spm=a2c4g.11186623.2.13.77342195PxlIDx#InstallPelicanDTSDK
+)
+* [trilead-ssh2](https://github.com/jenkinsci/trilead-ssh2)
